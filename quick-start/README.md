@@ -61,7 +61,9 @@ Go to the **Animations** folder and add a **Animation | Animation Blueprint**.
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
-clientOrigin
+Add an **Optritrack Client Origin** actor to the level.  This is where the 0,0,0 spot from Optritrack will run the animation.  Adjust the **Z** so the model is walking on the ground.  Leave the default settings alone in this actor.
+
+![add Optritrack Client Origin to level](images/clientOrigin.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
@@ -92,9 +94,7 @@ Now give the same name to the **Source Skeleton Asset Name** that was used on th
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Add an **Optritrack Client Origin** actor to the level.  This is where the 0,0,0 spot from Optritrack will run the animation.  Adjust the **Z** so the model is walking on the ground.  Leave the default settings alone in this actor.
-
-![add Optritrack Client Origin to level](images/clientOrigin.png)
+![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

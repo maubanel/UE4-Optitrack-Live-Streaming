@@ -61,37 +61,40 @@ Go to the **Animations** folder and add a **Animation | Animation Blueprint**.
 
 ##### `Step 6.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond:
 
+clientOrigin
+
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
 Select a **Parent Class** of `OptitrackAnimInstance` and the `UE4_Mannequin_Skeleton` as the **Skeleton**.  Press the <kbd>OK</kbd> button.
 
 ![alt_text](images/optitrackAnimBP.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
-##### `Step 7.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
 Name this animation blueprint `ABP_Optitrack` and drag a copy in the level.  Press the <kbd>Add Component</kbd> button and add an `Optitrack Skeleton` component.
 
 ![add animation blueprint to level and an optitrack skeleton component](images/AddOptitrackComponent.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-##### `Step 8.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
-
-Now give the same name to the 
-
-![alt_text](images/NameSkeleton.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now give the same name to the **Source Skeleton Asset Name** that was used on the skeleton in the scene in **Motiv**.  In this case it is `Anthony`. Then select the **Optitrack Client Origin** that was placed in the level.
+
+![name skeleton link to optritrack client origin](images/NameSkeleton.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Add an **Optritrack Client Origin** actor to the level.  This is where the 0,0,0 spot from Optritrack will run the animation.  Adjust the **Z** so the model is walking on the ground.  Leave the default settings alone in this actor.
+
+![add Optritrack Client Origin to level](images/clientOrigin.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

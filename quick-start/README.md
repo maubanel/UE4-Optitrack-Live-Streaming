@@ -14,8 +14,9 @@ The least number of steps to get an animation playing in motive (either live cap
 
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
+ Make sure you are capturing data in Motiv with the Opti Track cameras or playing back in Motiv in the editor (same difference).
 
-![alt_text](images/.jpg)
+![motiv playing scene](images/motiv_a.jpg)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

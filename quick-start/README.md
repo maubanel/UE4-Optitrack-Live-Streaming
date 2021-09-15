@@ -86,7 +86,7 @@ Name this animation blueprint `ABP_Optitrack` and drag a copy in the level.  Pre
 
 ##### `Step 9.`\|`SUU&G`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Now give the same name to the **Source Skeleton Asset Name** that was used on the skeleton in the scene in **Motiv**.  In this case it is `Anthony`. Then select the **Optitrack Client Origin** that was placed in the level.
+Now give the same name to the **Source Skeleton Asset Name** that was used on the skeleton in the scene in **Motiv**.  In this case it is `Anthony`. Then select the `Optitrack Client Origin` for **Streaming Client Origin** that was placed in the level.
 
 ![name skeleton link to optritrack client origin](images/NameSkeleton.png)
 
@@ -94,7 +94,9 @@ Now give the same name to the **Source Skeleton Asset Name** that was used on th
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-![alt_text](images/.png)
+Open up **ABP_Optitrack** and add a 
+
+![alt_text](images/AddOptitrackSkeleton.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -24,7 +24,7 @@ The least number of steps to get an animation playing in motive (either live cap
 
 Click the **Live Streaming** button in the top menu bar (looks like a wifi icon) and make sure **Broadcast Frame**, **Rigid Bodies** and **Skeletons** are set to `On`. Make sure **Local Interface** is at an accessible **IP Address**. Ensure that **Labeled Markers**, **Asset Markers**, **Remote Trigger**, **Broadcast VRPN** and **Broadcast Trackd...** are ll set to `Off`.  Set **Skeleton Coordinates** to `Local` and **Bone Naming Convention** to `Motive`.  You can leave `YUp` as the **Up Axis**.
 
-![alt_text](images/LiveStreamingMotiv.jpg)
+![alt_text](images/LiveStreamingMotiv.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

@@ -94,9 +94,9 @@ Now give the same name to the **Source Skeleton Asset Name** that was used on th
 
 ##### `Step 10.`\|`SUU&G`| :large_blue_diamond:
 
-Open up **ABP_Optitrack** and add a 
+Open up **ABP_Optitrack** and add a `Optritrack | OptriTrack Skeleton` to the **AnimGraph**.
 
-![alt_text](images/AddOptitrackSkeleton.png)
+![add an optitrack skeleton to animation blueprint](images/AddOptitrackSkeleton.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

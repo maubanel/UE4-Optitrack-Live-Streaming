@@ -103,9 +103,9 @@ Open up **ABP_Optitrack** and add a `Optritrack | OptriTrack Skeleton` to the **
 
 ##### `Step 11.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: 
 
-Connect the ouput actor icon from the ****
+Connect the ouput actor icon from the **OptiTrack Skeleton** node to the **Input** pin on the **Output Pose**.  Unreal will automatically add a **Component to Local** translation node.
 
-![alt_text](images/ConnectOutputs.png)
+![connect two nodes](images/ConnectOutputs.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

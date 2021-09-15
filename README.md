@@ -4,7 +4,7 @@
 ## Overview
 * This walk through is for getting a live feed from Opti Track's Motiv to Unreal.
 
-* Tested on [UE4](https://epicgames.com/store/download) 4.27 & [Motiv](https://optitrack.com/support/downloads/motive.html) 2.30
+* Tested on [UE4](https://epicgames.com/store/download) 4.27 & [Motiv](https://optitrack.com/support/downloads/motive.html) 2.30 with the **[Unreal Engine 4 Plugin 2.27](https://www.optitrack.com/support/downloads/plugins.html).
 
 
 <!-- TOC -->

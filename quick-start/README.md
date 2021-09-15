@@ -15,7 +15,9 @@ The least number of steps to get an animation playing in motive (either live cap
 
 ##### `Step 1.`\|`SUU&G`|:small_blue_diamond:
 
-Make sure you have installed [UE4](https://epicgames.com/store/download) 4.27 & [Motiv](https://optitrack.com/support/downloads/motive.html) 2.30 with the [Unreal Engine 4 Plugin 2.27](https://www.optitrack.com/support/downloads/plugins.html)
+Make sure you have installed [UE4](https://epicgames.com/store/download) 4.27 & [Motiv](https://optitrack.com/support/downloads/motive.html) 2.30 with the [Unreal Engine 4 Plugin 2.27](https://www.optitrack.com/support/downloads/plugins.html).
+
+The downloaded plugins need to be put in the **UE_4.27 | Engine | PLugins** folder.  You need to unzip and copy the entire contents of the `Optitrack` folder.
 
 ![install unreal, motiv and plugin](images/InstalLSoftware.png)
 

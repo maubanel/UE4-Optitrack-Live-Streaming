@@ -9,7 +9,7 @@
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [Setting Up](setting-up/README.md#user-content-setting-up) <br>
+<kbd></kbd> &nbsp;&nbsp; [Quick Start](quick-start/README.md#user-content-setting-up) <br>
 
 <!-- LICENSE -->
 ## License

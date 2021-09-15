@@ -43,17 +43,19 @@ Click the **Live Streaming** button in the top menu bar (looks like a wifi icon)
 
 ##### `Step 4.`\|`SUU&G`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-Go to **Edit | Plugins** and install the three **Opti Track Plugins**.  Make sure the plugin versions match the version of Unreal.
+Go to **Edit | Plugins** and install the three **Opti Track Plugins**.  Make sure the plugin versions match the version of Unreal. You will be prompted to reboot the engine to properly load up the plugins.
 
 ![alt_text](images/AddThreeOptiTrackPlugins.png)
-
-![alt_text](images/.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 5.`\|`SUU&G`| :small_orange_diamond:
 
-![alt_text](images/.png)
+Create a new **Unreal** project with the **Game | Third Person** template. This gives us access to the **Mannequin** and its skeleton.
+
+Go to the **Animations** folder and add a **Animation | Animation Blueprint**.
+
+![add an animation blueprint to default third person template](images/AnimationBlueprint.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

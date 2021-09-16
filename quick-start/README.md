@@ -120,8 +120,8 @@ Connect the ouput actor icon from the **OptiTrack Skeleton** node to the **Input
 
 ##### `Step 13.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-Connect those to nodes to their respective pins on the 
-![alt_text](images/ConnectPins.png)
+Connect those to nodes to their respective pins on the **OptiTrack Sekelton** node.
+![connect pins from to getters to optigrack skeleton node](images/ConnectPins.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

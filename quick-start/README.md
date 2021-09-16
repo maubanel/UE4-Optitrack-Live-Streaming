@@ -127,7 +127,9 @@ Connect those to nodes to their respective pins on the **OptiTrack Sekelton** no
 
 ##### `Step 14.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:  :small_blue_diamond: 
 
-![alt_text](images/.png)
+Now select the **OptiTrack** skeleton node and in the **Details | Retargeting** panel press the <kbd>Auto Fill Bone Mapping</kbd> and this will try and retarget the **OptriTrack** skeleton mocap positions with your skeleton used in **UE4**. Double check that the bones selected are correct.  When you are complete press the <kbd>Compile</kbd> button.
+
+![retarget bones on skeleton](images/AutoFillBoneMapping.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

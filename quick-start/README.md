@@ -135,7 +135,9 @@ Now select the **OptiTrack** skeleton node and in the **Details | Retargeting** 
 
 ##### `Step 15.`\|`SUU&G`| :large_blue_diamond: :small_orange_diamond: 
 
-![alt_text](images/.png)
+We do get a warning with the **4.27** plugin.
+
+![warning error](images/GetWarning.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 

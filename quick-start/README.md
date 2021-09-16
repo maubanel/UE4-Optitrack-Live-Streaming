@@ -112,7 +112,9 @@ Connect the ouput actor icon from the **OptiTrack Skeleton** node to the **Input
 
 ##### `Step 12.`\|`SUU&G`| :large_blue_diamond: :small_blue_diamond: :small_blue_diamond: 
 
-![alt_text](images/.png)
+<kbd>Right mouse click</kbd> on the graph and add a `Get Source Skeleton Asset Name` and a `Get Streaming Client Origin` node.
+
+![add a Get Source Skeleton Asset Name and Get Streaming Client Origin node](images/GetREfs.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
